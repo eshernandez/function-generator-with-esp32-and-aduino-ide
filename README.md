@@ -1,4 +1,4 @@
-# functions generator with esp32 and aduino ide
+# functions generator with esp32 and arduino ide
 this project was developed with a esp32 development module and arduino ide. His function is generate basic signals with  internal dac (digital analog converter).
 
 ## Functionality
